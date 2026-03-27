@@ -138,3 +138,5 @@ echo $QUESTION1
 echo $NUMBER
 echo $RANDOM
 echo $RANDOM
+./bingo.sh
+./bingo.sh
