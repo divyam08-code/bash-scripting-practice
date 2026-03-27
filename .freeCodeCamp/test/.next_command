@@ -83,3 +83,4 @@ help
 help if
 man if
 help [[ expression ]]
+help test
