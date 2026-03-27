@@ -112,3 +112,5 @@ help [[ expression ]]
 ./countdown.sh 4
 ./countdown.sh 2
 ./countdown.sh -3
+help if
+help
