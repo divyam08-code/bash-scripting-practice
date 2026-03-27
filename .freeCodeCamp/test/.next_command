@@ -75,3 +75,5 @@ help if
 ./countdown.sh arg2 arg3
 ./countdown.sh arg2 arg1
 ./countdown.sh arg2
+./countdown.sh 6
+./countdown.sh 4
