@@ -120,3 +120,4 @@ ls --color=auto /
 find ls /bin
 find bin
 ls --color=auto /bin
+man sleep
