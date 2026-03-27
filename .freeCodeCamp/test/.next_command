@@ -143,3 +143,6 @@ echo $RANDOM
 ./bingo.sh
 I=0
 echo $I
+__vsc_prompt_cmd_original
+I++
+(( I++ ))
