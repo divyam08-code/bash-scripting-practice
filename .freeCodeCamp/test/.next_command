@@ -134,3 +134,6 @@ printenv
 echo LANG
 echo $LANG
 declare -p
+echo $QUESTION1
+echo $NUMBER
+echo $RANDOM
