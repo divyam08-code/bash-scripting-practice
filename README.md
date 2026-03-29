@@ -23,8 +23,8 @@ This repository contains my Bash scripting practice completed as part of freeCod
 chmod +x filename.sh
 ./filename.sh
 ```
-## 🎯 Goal
-To strengthen command-line and shell scripting skills.
+## 🎯 Objective
+To build a strong foundation in command-line usage and shell scripting through hands-on practice.
 
 ## 📌 Author
 Divyam Agrawal
